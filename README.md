@@ -1,10 +1,10 @@
 # CODTECH-TASK1
-Name: Mohammed Farhan
-Company: CODTECH IT SOLUTIONS
-ID: CT6WDS834
-Domain: FULL STACK
-Duration: June to July 2024
-Mentor: N SANTOSH KUMAR
+Name: Mohammed Farhan<br>
+Company: CODTECH IT SOLUTIONS<br>
+ID: CT6WDS834<br>
+Domain: FULL STACK<br>
+Duration: June to July 2024<br>
+Mentor: N SANTOSH KUMAR<br>
 
 ## OVERVIEW OF THE PROJECT
 
