@@ -8,6 +8,9 @@ Mentor: N SANTOSH KUMAR
 
 ## OVERVIEW OF THE PROJECT
 
+![Screenshot 2024-07-24 133006](https://github.com/user-attachments/assets/69e43df0-0731-4a22-b53b-eabcd97a0c08)
+
+
 <h1> Portfolio Website</h1>
 <h3>Objective</h3>
 The objective of this project is to create a personal portfolio website that showcases my skills, experience, and projects in a professional and visually appealing manner. The website serves as an online resume and a platform for potential employers and collaborators to learn more about me and my work.
